@@ -1,10 +1,10 @@
 # Austin Chen
 
 austin@accodeworks.com  
-Canadian Citizen, BASc in Computer Engineering  
+BASc in Computer Engineering  
 cell: +1 647-523-5397
 
-My objective is to improve mobile software systems through development of battle-tested techniques as well as application of engineering principles. I enjoy lead by example and getting my hands dirty.
+My objective is to improve mobile software systems through development of battle-tested techniques as well as application of engineering principles. I enjoy leading by example and getting my hands dirty.
 
 ---
 
@@ -42,46 +42,101 @@ My objective is to improve mobile software systems through development of battle
 
 ---
 
-## Work Experiences   
+## Work Experiences  
 
-#### Senior Mobile Contractor  
-ProdigyLab Inc (December 2017 to Present)  
+#### Senior Engineer
+McAfee/TunnelBear (June 2018 to present)  
 
-**Works**:  
+- Core responsibilities include
+	- security hazard analysis
+	- security design & enforcement
+	- macOS/iOS application system design, 
+	- component interface design & creation, 
+	- co-design web API, data synchronization strategy
+	- designed and created persistence strategy
+	- end-to-end design verification and troubleshooting. 
+- co-design and co-ordinate with 3rd parties
+- mobile & desktop client development
+- App store engagement
 
-* MBNA Mobile Banking (in development)
+**Works:**
 
+* RememBear password manager
+
+
+#### ACCodeworks Inc.  
+Solution Architect/Freelance (Founded July 2016 - present)
+
+Founded ACCodeworks Inc to engage closely with market demands, to create bespoke software for various clients
+
+- Core responsibilities include
+	- turn client requirements to a working solution
+	- system design, 
+	- component interface design & creation, 
+	- co-design web API, data synchronization strategy
+	- designed and created persistence strategy
+	- end-to-end design verification and troubleshooting. 
+- co-design and co-ordinate with 3rd parties
+- mobile appication development
+	- iOS
+	- macOS
+	- Android
+- App store engagement
+- Platform development:
+	- nodejs
+	- Server-Side Swift
+- infrustructure development: 
+	- AWS EC2, Docker.
+
+**Works:**
+
+* MBNA Mobile Banking (via Ugo)
+* SnackableTV (via Stagwell)
+* My Tyria
+* SpursGo
+
+
+#### Senior Contractor  
+ProdigyLab Inc (December 2017 to June 2018)  
 
 When I joined ProdigyLabs at its client site, Ugo Inc; It was in the early stage of creating MBNA mobile banking app. The team was slowly being assembled, and has little prior knowledge about creating such solution. My primary contribution were:
 
-- Create a Proof-of-Concept webview-based hybrid prototype to leverage client's existing website
-- Evolve prototype into a MVP-ready product by architecting an iOS app based on webView
-- Onboard & lead team members, also manage project complexity
+- Core responsibilities include
+	- mobile system design resolving hybrid webview approach
+	- integrate client's existing web portal into a workable mobile solution
+	- component interface design & creation, 
+	- co-design web API, data synchronization strategy
+	- designed and created persistence strategy
+	- manage project complexity
+	- end-to-end design verification and troubleshooting. 
+- Onboard new team members
 
-#### ACCodeworks Inc.  
-Director/Freelance (Founded July 2016 - present)
+**Works:**
 
-Works:
-
-* SnackableTV (Live on App Store)
-* My Tyria (Live on App Store)
-* SpursGo (Live on App Store)
-
-I founded ACCodeworks Inc to be closer to market demands, and to design & Develop bespoke software for various clients' requirements.
+* MBNA Mobile Banking (in development)
 
 #### Stagwell Technologies (August 2016 to Jan 2018)   
-Senior Software Developer
+Mobile Solution Architect
 
-Works:
+In this time period, my team has shipped a number of mobile apps of major releases. Some of my contributions include:
+
+- Core responsibilities 
+	- include mobile system design, 
+	- component interface design & creation, 
+	- co-design web API, data synchronization strategy
+	- designed and created persistence strategy
+	- cross-team engagement, 3rd party support, 
+	- technical and functional requirement creation, 
+	- end-to-end design verification and troubleshooting. 
+- Drafted and esblished coding guidlines and coding patterns
+- Develop an mobile proxy using NetworkExtension framework to help client track usage
+- Modularized applications' user interface and played key role facelifting UI/UX
+- Recruiting and onboarding new teammates
+
+**Works:**
 
 * L1BRE Taxi Hailing App
 * HarrisX Telemetry App (internally published under Apple Enterprise Certificate)
-
-In this time period, my team has shipped a number of iOS native apps of major releases. Some of my contributions include:
-
-- Enhance L1BRE UI & UX programmatically
-- Putting forth an mobile archtecture with better separation of concern, applying SOLID coding
-- Develop an mobile proxy using NetworkExtension framework to help client track usage
 
 #### Kinetic Cafe Inc (June 2014 to June 2016)  
 Senior Developer / iOS Team Lead
@@ -97,32 +152,34 @@ Senior Developer / iOS Team Lead
 * Solid experience integrating and upgrading social framework eg, Facebook, Instagram.
 * Experience with production support & crash resolution, analytics analysis
 
-Works:
+**Works:**
 
 * Aldo App (Live on App Store)
 * Aldo In-Store shopping assistance app (Deployed to selected stores)
 * Aldo In-Store gallary mac app (Deployed to selected stores)
 
 #### UXP Systems Inc (April 2011 to April 2014)
-Mobile Software Developer   
+Mobile Software Developer/Team Lead 
 2015 UXP hackthon winner
 
-Front-end:
+UXP Systems’ MINT User Lifecycle Management (ULM) platform is powering today’s operators as they transition to a user-centric, digital world of entertainment, communications, and connected life services. 
+MINT ULM is transforming service experiences for operators like TELUS, Rogers, Cable & Wireless and Cable Bahamas, to simplify user journeys while unifying and personalizing access to digital services for every household user across traditional and cloud services. With its groundbreaking ULM capabilities, MINT innovates above existing legacy systems to transform the user experience, enabling frictionless user registration and device on-boarding, new user acquisition models, delegated user access, and individual user profiles across all screens and services. For more information, please visit: www.uxpsystems.com.
 
+**Mobile Engineering:**
 
 * Created a mobile library, used on both iOS and Android, in C/C++ with C interface (with both sync/async calls, Async APIs follow wait/notify programming patter). (3 successful years of delivery since 2011, which generates 5 million in revenue)
 
 * Created a Cordova front-end APP that calls to the APIs to the aforementioned shareable library.
 
-* Created an iOS APP with features such as call logs, voicemail playback and TV guide. Also help create parity features on Android (Delivery to Cable Bahamas and successfully deployed to production in 2011)
+* Owned an iOS project with features such as call logs, voicemail playback and TV guide. Also help create parity features on Android (Delivery to Cable Bahamas and successfully deployed to production in 2011)
 
-* Created a single page web app from Backbone/Marionette/jQuery with RESTful APIs to the backbend
+* Owned a single page app project from Backbone/Marionette/jQuery with RESTful APIs to the backbend
 
 * Created a single page web app to display or purchase movie assets. (Modeled after Netflix web)
 
 * Created an IPTV App that runs on Zentenrio setup box to authenticate user, display TV guide. (Modeled after Netflix on TV) (As a component of 90 days of Prove-of-Concept project, which successfully bid10 million dollars deal)
 
-Back-end:
+**Platform Engineering:**
 
 * Created a Zentenrio Ekioh browser (Webkit engine) plugin, which is used in pair with aforementioned IPTV app, using FireBreath framework. The reason to browser plugin is privileged access such as out-of-domain access, read/write from local file system, and most importantly the freedom to spawn a separate worker process can be used to relieve UI process from blocking. (As a component of 90 days of Prove-of-Concept project, which successfully bid10 million dollars deal)
 
@@ -152,7 +209,7 @@ BMO Capital Market (Jan 2009 to May 2009)
 
 * Code and database data migration from MS Access to SQL server
 * Coding in VBA for Excel using SQL API
-* Server side Dot Net programming
+* Server side .Net programming
 * Generating Database Report using Crystal Report
 * Scripting and scheduling
 * Interface designing to Vista Aero like looking 
@@ -169,7 +226,7 @@ Hydro One Inc (May 2008 to September 2008)
 * Work with minimum supervision and assistance; excellent research skills
 
 
-Software developer (Co-op)
+#### Software developer (Co-op)
 AMD (September 2007 to December 2007)
 
 * Graphic card capability implementation of video driver and Catalyst Control Center using C/C++   
@@ -200,8 +257,6 @@ University of Waterloo
 
 #### Educational Achievement
 
-* Coursera certified on Machine Learning (course taught by Andrew Ng)
-* Coursera certified on Google Cloud Datalabs, TensorFlow (5 part course)
 * Certificate of distinction for Euclid Mathematics Contest 2005 (Top 25%)
 * Recipient of Queen Elizabeth Aiming for the Top Scholarship
 * Recipient of University of Waterloo President's Scholarship
