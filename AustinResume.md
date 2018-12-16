@@ -1,6 +1,6 @@
 # Austin Chen
 
-austin@accodeworks.com  
+austin.zm@gmail.com  
 BASc in Computer Engineering  
 cell: +1 647-523-5397
 
@@ -28,7 +28,7 @@ My objective is to improve mobile software systems through development of battle
 * __Complexity manager__, A team lead's primary job is managing complexity.
 * __Life Hacker__, Speaking in i-Statements rather than you-statement goes a long way.
 * __Dog food eater__, Being both the provider and consumer of my own products.
-* __Pragmatic Coder__, Believes in the points above, but not religious to them.
+* __Pragmatic Coder__, Believes in the points above, but not dogmatic about them.
 
 ---
 
@@ -145,12 +145,12 @@ Senior Developer / iOS Team Lead
 * Team lead for Aldo iPhone app, co-author for Aldo In-Store iPad app
 * Coordinated with project managers to carry out scrum rituals, monitor and tune team performance
 * Projects foresights and forencics to keep pipeline free of congestion.
-* Build and releases apps using TestFlight, Fabric.
 * Full stack, battle tested experience in UI and Core Data
 * Working with iBeacon and geofence technology using multitasking to deliver fine tuned location based service.
 * Solid experience integrating with payment gateway, PayPal, ApplePay (one of the first in Canada adopting it)
 * Solid experience integrating and upgrading social framework eg, Facebook, Instagram.
-* Experience with production support & crash resolution, analytics analysis
+* Experience with production support, crash resolution, data analysis
+* Build and releases apps using TestFlight, Fabric.
 
 **Works:**
 
