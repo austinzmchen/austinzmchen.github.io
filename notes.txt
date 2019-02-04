@@ -1,0 +1,92 @@
+- Proven experience in a fast-moving, growth-minded startup and demonstrated ability to scale an organization in multiple locations
+- Experience in attracting, assessing, and hiring highly skilled and diverse technical talent
+- Experience building and delivering products and/or services that have scaled
+
+- Ability to lead teams and work effectively with remote teams
+- Ability to thrive in a fast-paced, time-compressed and dynamic environment
+- Experience with responsive design, multi-platform technologies (PC/mobile/table/TV)
+- Experience with CI/CD pipelines
+- An overall knowledge of working with high-availability, high-performance, scalable systems
+- Clean code, covered by unit, integration and UI tests (including TDD)
+- Modular ADR, ECS and MVC system development
+
+- Delegate and allocate responsibilities efficiently to manage projects end to end
+- To ensure governing of all technical aspects of implementation projects, lead technical briefings and participate in business requirements.
+- To nurture, grow, motivate and train your team members in constant upgrading and embrace new technologies in alignment with company’s strategic direction
+- Have highly entrepreneurial mindset in managing talents in your team who possess unique capabilities and passionate about latest digital and mobile technologies.
+- Ability to conduct effective technical reviews.
+- Strong understanding of industry specific technical and functional best practices, preferably in healthcare
+- Good knowledge of infrastructure and security best practices
+- Ability to further improve the existing software architectural framework
+
+Google:
+
+- Manage a team of software engineers, including task planning and code reviews. 
+- Drive technical projects and provide leadership in an innovative and fast-paced environment. 
+- Be responsible for the overall planning, execution, and success of complex technical projects. 
+- Work closely with product management team to ensure that we're building the best products.
+
+- Experience, or a strong passion in, web application security or Information Security (InfoSec)
+- Identify security and compliance risks. Deliver findings, recommendations and remediation steps
+- Manage the security roadmap and help team accomplish their quarterly goals
+- Manage HackerOne bug bounty queue
+- Define policies on how to respond to issues in conjunction with PR team
+- Knowledge of of security and cryptographic concepts (PKI…) 
+
+Apple: 
+- Experience with protection of software IPs 
+- Experience in analysis of big data sets 
+
+TunnelBear:
+
+- Deliver intellectual property protection for your embedded software applications and application data files
+- Ensure that the algorithms, trade secrets, and professional know-how embedded in the software are secured against hackers
+- Knowledge of techniques, standards and cutting edge capabilities for authentication and authorization, applied cryptography, security vulnerabilities and remediation.
+- Familiarity with vulnerabilities such as replay attack, SQL injections, XSS attacks, and common mitigation techniques
+- Knowledge of Linux system internals; TCP/IP networking, and software engineering fundamentals
+
+------------
+
+
+ - 在管理团队中具有独特能力和热衷于最新数字和移动技术的人才方面具有高度的企业家精神。
+ - 有效地委派和分配责任从而端到端地管理项目
+ - 在快节奏，迅速成长和动态的环境中茁壮成长，并具有扩展团队的能力
+ - 具有吸引，评估和雇用高技能和多样化技术人才的经验
+ 
+
+ - 能够领导团队并与远程团队有效合作
+ - 具有 CI / CD 部署及管理的经验
+ - 使用高可用性，高性能，可扩展系统的全面知识
+ - 具有响应式设计，多平台技术（PC /移动/桌面/电视）的经验
+ - 清洁代码，由单元，集成和UI测试（包括TDD）覆盖
+ - 模块化ADR，ECS和MVC系统开发
+
+- 具有构建和扩展产品或服务的经验
+ - 确保管理实施项目的所有技术方面，领导Scrum, 站会，技术简报并参与分析业务要求。
+ - 培养，发展，激励和培训团队成员不断提升，并采用符合公司发展战略方向的新技术
+ - 能够进行有效的技术审查，定时与队友一对一的沟通， 简阅Pull Request, 审查代码质量
+
+谷歌：
+
+ - 负责复杂的技术项目的总体规划，执行和部署。
+
+苹果：
+
+ - 保护软件IP的经验
+ - 分析大数据集的经验
+
+TunnelBear：
+
+ - 具备加密学的基础，分析加密协议和方法的优缺点。
+ - 具备应用程序和数据文件提供知识产权保护经验
+ - 具备确保软件中嵌入的算法，商业秘密和专业知识可以抵御黑客攻击的经验
+ - 了解用于身份验证和授权的技术，标准和前沿功能，应用加密，安全漏洞和修复。
+ - 熟悉重放攻击，SQL注入，XSS攻击和常见缓解技术等漏洞
+ - Linux系统内部知识; TCP / IP网络和软件工程基础
+
+
+分析加密协议和方法的优缺点，基于加密算法设计构架。
+
+ 问题： scale 这个词怎么翻译呢？
+ - scaled software system
+ - Experience building and delivering products and/or services that have scaled

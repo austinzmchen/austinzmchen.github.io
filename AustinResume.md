@@ -62,10 +62,11 @@ McAfee/TunnelBear (June 2018 to present)
 **Works:**
 
 * RememBear password manager
+* TunnelBear VPN
 
 
 #### ACCodeworks Inc.  
-Solution Architect/Freelance (Founded July 2016 - present)
+Solution Architect/Freelance (Founded July 2016 - June 2018)
 
 Founded ACCodeworks Inc to engage closely with market demands, to create bespoke software for various clients
 
@@ -88,20 +89,15 @@ Founded ACCodeworks Inc to engage closely with market demands, to create bespoke
 - infrustructure development: 
 	- AWS EC2, Docker.
 
-**Works:**
-
-* MBNA Mobile Banking (via Ugo)
-* SnackableTV (via Stagwell)
-* My Tyria
-* SpursGo
-
-
-#### Senior Contractor  
-ProdigyLab Inc (December 2017 to June 2018)  
-
-When I joined ProdigyLabs at its client site, Ugo Inc; It was in the early stage of creating MBNA mobile banking app. The team was slowly being assembled, and has little prior knowledge about creating such solution. My primary contribution were:
-
-- Core responsibilities include
+**Clients:**
+	
+* Bell Media
+* Toronto Dominion Bank of Canada
+* Stagwell Technologies
+	- Drafted and esblished coding guidlines and coding patterns
+	- Develop an mobile proxy using NetworkExtension framework to help client track usage
+	- Modularized applications' user interface and played key role facelifting UI/UX
+* Prodigy Labs
 	- mobile system design resolving hybrid webview approach
 	- integrate client's existing web portal into a workable mobile solution
 	- component interface design & creation, 
@@ -109,34 +105,17 @@ When I joined ProdigyLabs at its client site, Ugo Inc; It was in the early stage
 	- designed and created persistence strategy
 	- manage project complexity
 	- end-to-end design verification and troubleshooting. 
-- Onboard new team members
+* L1BRE
+* Hotspur Soccer Team
 
 **Works:**
 
-* MBNA Mobile Banking (in development)
-
-#### Stagwell Technologies (August 2016 to Jan 2018)   
-Mobile Solution Architect
-
-In this time period, my team has shipped a number of mobile apps of major releases. Some of my contributions include:
-
-- Core responsibilities 
-	- include mobile system design, 
-	- component interface design & creation, 
-	- co-design web API, data synchronization strategy
-	- designed and created persistence strategy
-	- cross-team engagement, 3rd party support, 
-	- technical and functional requirement creation, 
-	- end-to-end design verification and troubleshooting. 
-- Drafted and esblished coding guidlines and coding patterns
-- Develop an mobile proxy using NetworkExtension framework to help client track usage
-- Modularized applications' user interface and played key role facelifting UI/UX
-- Recruiting and onboarding new teammates
-
-**Works:**
-
-* L1BRE Taxi Hailing App
-* HarrisX Telemetry App (internally published under Apple Enterprise Certificate)
+* MBNA Mobile Banking
+* SnackableTV
+* L1BRE mobile Hailing App
+* My Tyria
+* SpursGo
+* HarrisX Telemetry App
 
 #### Kinetic Cafe Inc (June 2014 to June 2016)  
 Senior Developer / iOS Team Lead
