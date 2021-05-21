@@ -4,53 +4,56 @@ austin.zm@gmail.com
 BASc in Computer Engineering  
 cell: +1 647-523-5397
 
-My objective is to improve mobile software systems through development of battle-tested techniques as well as application of engineering principles. I enjoy leading by example and getting my hands dirty.
+My objective is to improve software systems through development of battle-tested proceses, as well as application of engineering principles. I enjoy leading by example and getting my hands dirty.
 
 ---
 
 ## Summary of Qualifications
 
-* Solid hands-on coding skill
-* Solid understanding of enterprise development and production procedures
-* Thorough understanding of MVC, MVVM, multithreading, and various programming model
-* Excellent communication skills & documentation skills
-* Strong sense of code ownership
-* Care about software craftsmanship and understand its limit in a rapid development environment
-* Excellent independent worker; having a strong sense of product delivery and willingness to take project from start to finish
-* Understanding of repeatable automated processes for building the application, testing it, documenting it, and deploying it at scale
+* Solid hands-on coding skill and understanding of enterprise software development and HA infrustructure (ITIL)
+* Capable engineering leader who understands enterprise SaaS down to its bones, with experience in a high growth tech organization with competing priorities
+* A low-ego problem-solver, with a strong sense of ownership and accountability
+* Highly organized, keep a techincal log book digitally; strong organizational skills both for myself and for the team setting.
 
 ---
 
 ## Reflections
-* __Craftsman__, Write high quality code, the rest will follow.
-* __Culture of delivery__, The code written is hardly any use if it does not make its way to its users.
-* __Code Hygenist__, Write clean code, in Uncle Bob's way.
-* __Complexity manager__, A team lead's primary job is managing complexity.
-* __Life Hacker__, Speaking in i-Statements rather than you-statement goes a long way.
-* __Dog food eater__, Being both the provider and consumer of my own products.
-* __Pragmatic Coder__, Believes in the points above, but not dogmatic about them.
+* __Craftsman__, Write high quality code in Uncle Bob's way, the rest will follow.
+* __Complexity manager__, Analysis and optimizing complexity have long been my primary job.
 
 ---
 
 | Proficiency | |
 | ------:| :------- |
-| Mobile Dev | Swift, Objective-C/C/C++, Android/Kotlin, React Native, TypeScript/JS, HTTP/REST,  Git/SVN |
-| Framework/library | UIKit, CoreData, CoreAnimation, Foundation, LibDispatch, MLKit, ARKit  |
-| Tools | XCode/AppCode, VSCode, WireShark, Charles, IntelliJ, Visual Studio, Eclipse, Vim |
-| Server Programming | Server-Side Swift, AWS (Lambda, API Gateway, DynamoDB, AppAync, MobileHub), GraphQL |
-| Currently Acquiring | Python Stack, MachineLearning |
+| Team Management | Agile methodology, Microservice architecture, Multidisciplinary team management, Strong culture of delivery |
+| Server Dev | Kotlin/Java, Python 3, Spring Framework, Docker, Microservice, Keycloak IAM, MongoDB, Redis, AWS (Lambda, API Gateway, DynamoDB, AppAync, MobileHub), GraphQL
+| Mobile Dev | iOS/Swift and Android/Kotlin, UIKit, CoreData, Room, Dagger, Retrofit, Moshi, RxAndroid, RxJava |
+| Tools | Git/SVN, VSCode, WireShark, Charles, IntelliJ, Visual Studio, Eclipse, Vim |
 
 ---
 
 ## Work Experiences  
 
+#### Engineering Director
+AIH Tech Inc (Oct 2019 to Present)  
+
+- Design and build the business-critical Facial-Recognition-as-Service system from the ground up
+	- Design team strucutre, adopt agile methodology the right way; created scrums, bi-weekly sprints/demos/delivery
+	- Thorough understanding microservice architecture and its application to enterprise software development; Adopted industry best practices, battle-tested development means such as Netflix OSS integrations etc.
+	- Architecting cloud/on-prem SaaS solution with distributed and high-available characteristic in nature
+	- Created and managed development infrustructure including AWS, Artifact Repo, Code Repo, Dockerhub, company knowledge portal etc.
+	- Conduct talent recruitment and resource budget coordination with finance team
+- Working closely with CTO and cross-functional partners in developing the engineering vision and roadmaps
+- Provide hands-on technical management, guidance, and support including system/design/code reviews, directly assist engineers in decision making for the broader engineering organization.
+- Grow enginnering team with superior engineering talent, and coach and improve the performance of existing engineers
+
 #### Senior Engineer
-McAfee/TunnelBear (June 2018 to present)  
+McAfee/TunnelBear (June 2016 to Sept 2019)  
 
 - Core responsibilities include
 	- security hazard analysis
 	- security design & enforcement
-	- macOS/iOS application system design, 
+	- Desktop/Mobile application system design, 
 	- component interface design & creation, 
 	- co-design web API, data synchronization strategy
 	- designed and created persistence strategy
@@ -65,62 +68,10 @@ McAfee/TunnelBear (June 2018 to present)
 * TunnelBear VPN
 
 
-#### ACCodeworks Inc.  
-Solution Architect/Freelance (Founded July 2016 - June 2018)
-
-Founded ACCodeworks Inc to engage closely with market demands, to create bespoke software for various clients
-
-- Core responsibilities include
-	- turn client requirements to a working solution
-	- system design, 
-	- component interface design & creation, 
-	- co-design web API, data synchronization strategy
-	- designed and created persistence strategy
-	- end-to-end design verification and troubleshooting. 
-- co-design and co-ordinate with 3rd parties
-- mobile appication development
-	- iOS
-	- macOS
-	- Android
-- App store engagement
-- Platform development:
-	- nodejs
-	- Server-Side Swift
-- infrustructure development: 
-	- AWS EC2, Docker.
-
-**Clients:**
-	
-* Bell Media
-* Toronto Dominion Bank of Canada
-* Stagwell Technologies
-	- Drafted and esblished coding guidlines and coding patterns
-	- Develop an mobile proxy using NetworkExtension framework to help client track usage
-	- Modularized applications' user interface and played key role facelifting UI/UX
-* Prodigy Labs
-	- mobile system design resolving hybrid webview approach
-	- integrate client's existing web portal into a workable mobile solution
-	- component interface design & creation, 
-	- co-design web API, data synchronization strategy
-	- designed and created persistence strategy
-	- manage project complexity
-	- end-to-end design verification and troubleshooting. 
-* L1BRE
-* Hotspur Soccer Team
-
-**Works:**
-
-* MBNA Mobile Banking
-* SnackableTV
-* L1BRE mobile Hailing App
-* My Tyria
-* SpursGo
-* HarrisX Telemetry App
-
 #### Kinetic Cafe Inc (June 2014 to June 2016)  
-Senior Developer / iOS Team Lead
+Senior Developer / Mobile Team Lead
 
-* Authoring E-Commerce iOS mobile platform for ALDO, v1 available on App Store with 100,000+ users worldwide.
+* Authoring E-Commerce mobile platform for ALDO, v1 available on App Store with 100,000+ users worldwide.
 * Team lead for Aldo iPhone app, co-author for Aldo In-Store iPad app
 * Coordinated with project managers to carry out scrum rituals, monitor and tune team performance
 * Projects foresights and forencics to keep pipeline free of congestion.
@@ -146,11 +97,11 @@ MINT ULM is transforming service experiences for operators like TELUS, Rogers, C
 
 **Mobile Engineering:**
 
-* Created a mobile library, used on both iOS and Android, in C/C++ with C interface (with both sync/async calls, Async APIs follow wait/notify programming patter). (3 successful years of delivery since 2011, which generates 5 million in revenue)
+* Created a mobile library, used on both Android and iOS, in C/C++ with C interface (with both sync/async calls, Async APIs follow wait/notify programming patter). (3 successful years of delivery since 2011, which generates 5 million in revenue)
 
 * Created a Cordova front-end APP that calls to the APIs to the aforementioned shareable library.
 
-* Owned an iOS project with features such as call logs, voicemail playback and TV guide. Also help create parity features on Android (Delivery to Cable Bahamas and successfully deployed to production in 2011)
+* Owned an mobile project with features such as call logs, voicemail playback and TV guide. Also help create parity features on Android (Delivery to Cable Bahamas and successfully deployed to production in 2011)
 
 * Owned a single page app project from Backbone/Marionette/jQuery with RESTful APIs to the backbend
 
@@ -165,8 +116,13 @@ MINT ULM is transforming service experiences for operators like TELUS, Rogers, C
 * Optimize data transfer for above app by using Squashfs to reduce the payload during download, while preserving meta-data, as well as reducing decompression speed. (As a component of 90 days of Prove-of-Concept project, which successfully bid10 million dollars deal)
   
 
-#### SOA Developer  (Co-op)
-CGI Group Inc (Sept 2010 to Dec 2010)
+#### Application & Database Developer (Co-op)
+IBM (Sept 2009 to Dec 2009, Sept 2010 to Dec 2010)
+
+* Sybase database development using SQL and store procedure
+* Code migration from proprietary report program (Powerbuilder) to scripts.
+* Data warehousing using Unix Korn shell
+* Web site scripting with ECMA style scripts
 
 * Java development of electronic settlement system for TD
 * Developing under Spring framework, iBatis, and Oracle Database, with SOAP protocol
@@ -174,28 +130,8 @@ CGI Group Inc (Sept 2010 to Dec 2010)
 * Re-Design and administration of internal web site and database
 
   
-#### Application & Database Developer (Co-op)
-CIBC (Sept 2009 to Dec 2009)
-
-* Data warehousing using Unix Korn shell
-* Web site scripting with ECMA style scripts
-* Sybase database development using SQL and store procedure
-* Code migration from proprietary report program (Powerbuilder) to scripts.
-
-  
-#### Developer & Database Manager (Co-op)
-BMO Capital Market (Jan 2009 to May 2009)
-
-* Code and database data migration from MS Access to SQL server
-* Coding in VBA for Excel using SQL API
-* Server side .Net programming
-* Generating Database Report using Crystal Report
-* Scripting and scheduling
-* Interface designing to Vista Aero like looking 
-
-  
-#### Software Engineer (Co-op)
-Hydro One Inc (May 2008 to September 2008)
+#### Software Programmer (Co-op)
+Hydro One Inc (May 2008 to September 2008, Jan 2009 to May 2009)
 
 * Developed Monte Carlo Simulator for structures' failure probability
 * Weather data automatic Searcher-an-Downloader using C#
@@ -203,6 +139,13 @@ Hydro One Inc (May 2008 to September 2008)
 * Solid programming skill using Microsoft InterOperatibility features
 * Solid knowledge of programming with various Microsoft APIs
 * Work with minimum supervision and assistance; excellent research skills
+
+* Code and database data migration from MS Access to SQL server
+* Coding in VBA for Excel using SQL API
+* Server side .Net programming
+* Generating Database Report using Crystal Report
+* Scripting and scheduling
+* Interface designing to Vista Aero like looking 
 
 
 #### Software developer (Co-op)
@@ -213,16 +156,6 @@ AMD (September 2007 to December 2007)
 * Peer debug, review, present codes in software staging level
 * Configuration and administration of Wiki server as department wide knowledge base
 * Good exposure to Unix operating system and capability with Unix commands and configuration procedures 
-
- 
-#### Technology support (Co-op)
-Middlefield Group (January 2007 to April)
-
-* Greatly reduced printer and workstation failure occurrences by regularly auditing them
-* Successfully installed various network equipments such as router, modem and extender in relatively short time
-* Discovered several unnoticed features of digital surveillance system thus saved my employer precious time
-* Coordinated with co-workers developing web pages and ensured their performance through updating and troubleshooting
-* Extensively exercised my ability of troubleshooting and problem solving of various office programs and equipments 
 
  
 ## Education
@@ -244,7 +177,5 @@ University of Waterloo
 
 ## Personal Interests
 
-* Really digs works by Andrew S Tanenbaum, and Edsger W. Dijkstra
-* Playing with SpritKit, SceneKit
-* Setting up Alexa/HomeKit smart home
-* Volunteer as skating rink coordinator
+* DIY Home Renovation Projects. 
+* Fix small motors, and electronics
